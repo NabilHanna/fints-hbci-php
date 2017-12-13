@@ -1338,7 +1338,7 @@ This library is verified to work with following banks.
 - [ ] Volksbank Jestetten
 - [ ] Volksbank Kaiserslautern-Nordwestpfalz
 - [ ] Volksbank Kamen-Werne eG
-- [ ] Volksbank Karlsruhe
+- [x] Volksbank Karlsruhe
 - [ ] Volksbank Kehdingen eG
 - [x] Volksbank Kelsterbach Ndl d Frankfurter VB
 - [ ] Volksbank Kempen-Grefrath eG
